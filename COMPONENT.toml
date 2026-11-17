@@ -3,7 +3,7 @@ name = "SigmaOS-pamac-aur"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "pamac-aur component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
